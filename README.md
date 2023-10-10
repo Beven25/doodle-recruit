@@ -7,7 +7,7 @@ Homepage of Doodle Recruit Web App.
 ## File Structure Explanation:
 >Some of the file names are self-explanatory and hence not included in this explanation.
 
-`/Datasets`<br>Contains the main raw data with 16k records.<br><br>
+`/Datasets`<br>Contains the 16k records of different user profiles.<br><br>
 `/Trail_and_Error`<br>Contains all the code which we used while trying our different algorithms, fetching data, etc. Code in this folder is not part of working app.<br><br>
 `/pages`<br>Contains the main sections/webpages of the app.<br><br>
 `/user_credentials`<br>The user credentials (for both candidate & Recruiter Space) are stored here in YAML files. Encrption of passwords is done automatically by the authentication library (streamlit-authenticator). We just stored the encrypted passwords here in YAML.<br><br>
