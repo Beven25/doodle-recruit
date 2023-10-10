@@ -1,0 +1,10 @@
+cookie:
+  expiry_days: 1
+  key: doodlerCandidateCookie#12345
+  name: doodler_cookie@candidate
+credentials:
+  usernames:
+    futuredoodler:
+      email: candidate@futuredoodler.com
+      name: Candidate
+      password: $2b$12$zA30tdxwEyeyoMqO7/XEiO8q4EjUEMdUh9TJjeJhWBRLoI369fRgi
