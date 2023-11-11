@@ -1,6 +1,15 @@
 # Doodle Recruit 👀
 This project repository is to hold all the project files and related documents of our final project of the Big Data Programming: Python (BDPP) course.
 
+Problem:
+Transforming Recruitment: AI-Based Inhouse Recruitment System"
+
+In the bustling world of tech companies, there was a problem that seemed insurmountable—finding the right talent. The recruitment process had become an arduous journey, where countless hours were spent sifting through resumes and hoping to find that perfect fit. It was a quest that often felt like searching for a needle in a haystack.
+
+To overcome this problem, As a team we came up with a solution by building an "AI-Based Inhouse Recruitment System," that showcases the incredible potential of data science in revolutionizing recruitment. Our team, comprised of data enthusiasts embarked on a journey to create this application.
+
+In a real-world application, our system empowers recruiters to efficiently identify candidates possessing specific attributes like domain expertise, open source contributions, years of experience and proficiency in essential programming languages. Armed with this data, recruiters can seamlessly extend online assessment tests to the most promising candidates, ultimately expediting the process of selecting candidates for initial interviews.
+
 ![image](https://github.com/Big-Data-Programming/bdp_apr23_exam-bdp_apr23_1/assets/43603441/179f5589-6cff-4d99-9383-4161d18bb2be)
 Homepage of Doodle Recruit Web App.
 
